@@ -2,12 +2,13 @@
   "events": [
     {
       "name": "Campeonato Regional Centro FECHIPO 2026",
+      "pin":"0905",
       "short": "Regional Centro 2026",
       "date": "2026-05-09",
       "closeDate": "2026-04-14",
       "location": "Santiago, Región Metropolitana",
       "organizer": "Athor Powerlifting",
-      "days": "09 y 10 de Mayo",
+      "days": "09 de Mayo",
       "athletes": [
         {
           "nombre": "Tomás Alejandro Espinosa Perez",
@@ -747,6 +748,7 @@
     {
       "name": "Primer Campeonato Nacional Universitario FECHIPO 2026",
       "short": "Nacional Universitario 2026",
+      "pin": "2305",
       "date": "2026-05-23",
       "closeDate": "2026-05-02",
       "location": "Talca",
